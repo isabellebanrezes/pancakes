@@ -16,19 +16,18 @@ p{
 
 h1 {
     color : #ffffff;
-    font-size: 40px;
+    font-size: 50px;
     background-color: #f02425;
     text-align: center;
 }
 
 
-h2,h3 {
+h2,h3 { _
     color:#f02425;
     text-align: center;
     font-size: 30px;
     font-weight: Underline;
-    
-    
+
 }
 
 h4 {

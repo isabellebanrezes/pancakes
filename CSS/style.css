@@ -1,0 +1,31 @@
+body {
+    width: 75%;
+    background-color: #feeef5;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+h1 {
+    background-color: #ddeff6;
+    color: #1d84c5;
+}
+
+.photo-pancakes {
+    border-radius: 35%;
+}
+
+h2 {
+    color: #1d84c5;
+    font-size: 30px;
+}
+
+h3 {
+    font-style: italic;
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+p, ul, li {
+    text-align: left;
+    font-size: 16px;
+}
