@@ -1,16 +1,25 @@
+
+
 body {
     background-color: #feeef5;
     font-family: sans-serif;
     text-align: center;
+    
 }
 
 h1 {
     background-color: #ddeff6;
     color: #1d84c5;
+    border: 0.8rem solid;
+    border-block-start-color:#ff3c93 ;
+    margin: 0%;
+    padding: 1em;
+    text-align: center;
+    margin: 2%;
 }
 
 .photo-pancakes {
-    border-radius: 35%;
+    border-radius: 15%;
 }
 
 h2 {
@@ -24,11 +33,30 @@ h3 {
     text-decoration: underline;
 }
 
-p, ul, li {
+p, ul, ol, li {
     text-align: left;
-    font-size: 16px;
+    font-size: 20px;
+    padding-left: 30px;
 }
 
-strong {
+strong, em {
     color: #c43737;
+   font-style: normal;
+}
+
+a {
+    color: #1d84c5;
+    font-weight:600;
+}
+
+p.astuce {
+    background-color: #743f7e;
+    color: white;
+    font-weight: 500;
+    border: 0.6rem solid;
+    border-block-start-color: #b6edd8;
+    margin: 0%;
+    padding: 1em;
+    text-align: center;
+    
 }
